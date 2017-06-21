@@ -13,3 +13,5 @@ This script tries to predict which crypto-currency is most likely to see the lar
 
 
 Since consumer decision is partially based on the 24 hour percentage change of a currency, this script will hopefully predict which currency will dominate the trading platform in the next 24 hours.
+
+** This was written in python 3.4. If you have a version below 3, you will have to make some adjustments to the code for it to work.
